@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164972018966",
+    "project_id": "task-2-doo",
+    "storage_bucket": "task-2-doo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164972018966:android:15e7c75b56084c310e2437",
+        "android_client_info": {
+          "package_name": "com.jayr.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAovATjUvoL7FcJUf_yOuD_UxgDKHICk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
